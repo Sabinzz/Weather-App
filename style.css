@@ -36,7 +36,7 @@ font-size: 18px;
 .search button {
     border: 0;
     outline: 0;
-    border-radius: 50%;
+    border-radius: 100%;
     cursor: pointer;
     width: clamp(38px, 10vw, 60px);
     height: clamp(38px, 10vw, 60px);
